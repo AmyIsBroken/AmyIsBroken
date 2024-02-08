@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AmyIsBroken
-- 👀 I’m interested in Employment in the IT field
-- 🌱 I’m currently learning Graduating in Foreign Trade and Information System
-- 📫 How to reach me My social media is below
+-  Hi, I’m @AmyIsBroken
+-  I’m interested in Employment in the IT field
+-  I’m currently learning Graduating in Foreign Trade and Information System
+- How to reach me My social media is below
 
 
 <!---
